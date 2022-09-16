@@ -8,7 +8,7 @@ Projeto construido no evento Next Level Week da Rocketseet
 
 [clique aqui para acessar](https://juuhgomes03.github.io/NLW-eSports-explore/)
 
-##Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
@@ -16,4 +16,3 @@ Projeto construido no evento Next Level Week da Rocketseet
 
 ## contato 
  [Linkedin](https://www.linkedin.com/in/j%C3%BAlia-gomes-a9a07812a/)
- 
